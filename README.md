@@ -2,6 +2,7 @@
 📫 How to reach me: by mail on hichemsidi58@gmail.com\
 🌱 I’m currently learning Web developement\
 ㊙️ Find me on Twitter! @hichem_sidi
+@ Ella-0 Check out her projects!
 <!--
 **Hichen220/Hichen220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
