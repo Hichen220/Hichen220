@@ -1,6 +1,6 @@
 ### Hey there! 👋
 📫 How to reach me: by mail on hichemsidi58@gmail.com\
-🌱 I’m currently learning Web developement\
+🌱 now uhh I wanna learn low level programming; assembly and stuff yk\
 ㊙️ Find me on Twitter! @hichem_sidi
 
 <!--
